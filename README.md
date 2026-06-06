@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mttoprak
-- 👀 I’m interested in: Frontend Developing, Fullstack Development,  
+- 👀 I’m interested in Fullstack Development
 - 📫 How to reach me: mttoprak@outlook.com, @mttoprak_ at instagram 
 
 <!---
